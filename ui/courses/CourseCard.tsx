@@ -27,6 +27,9 @@ export default function CourseCard({course}: CourseCardProps) {
             <Typography variant="h5" color="blue-gray" className="mb-2">
                 {course.title}
             </Typography>
+            <Typography color="gray" className="mb-2">
+                {course.description}
+            </Typography>
         </CardBody>
         <CardFooter className="pt-0">
             <Button>Read More</Button>
