@@ -1,6 +1,6 @@
 const data = [
     {
-        "id": 26357,
+        "id": 1,
         "isOptional": null,
         "version": 6,
         "availableFrom": "08/06/2022 00:00:00",
@@ -850,7 +850,7 @@ const data = [
         "availableFromIso": "2022-06-07T18:30:00Z"
     },
     {
-        "id": 26359,
+        "id": 2,
         "isOptional": null,
         "version": 2,
         "availableFrom": "15/09/2022 00:00:00",
@@ -1316,7 +1316,7 @@ const data = [
         "availableFromIso": "2022-09-14T18:30:00Z"
     },
     {
-        "id": 26360,
+        "id": 3,
         "isOptional": null,
         "version": 1,
         "availableFrom": "21/10/2022 00:00:00",
@@ -1718,7 +1718,7 @@ const data = [
         "availableFromIso": "2022-10-20T18:30:00Z"
     },
     {
-        "id": 26361,
+        "id": 4,
         "isOptional": null,
         "version": 4,
         "availableFrom": "03/01/2023 00:00:00",
@@ -2501,7 +2501,7 @@ const data = [
         "availableFromIso": "2023-01-02T18:30:00Z"
     },
     {
-        "id": 38899,
+        "id": 5,
         "isOptional": null,
         "version": 27,
         "availableFrom": "01/05/2023 00:00:00",
@@ -2836,7 +2836,7 @@ const data = [
         "availableFromIso": "2023-04-30T18:30:00Z"
     },
     {
-        "id": 34356,
+        "id": 6,
         "isOptional": false,
         "version": 5,
         "availableFrom": "01/03/2023 00:00:01",
@@ -3296,7 +3296,7 @@ const data = [
         "availableFromIso": "2023-02-28T18:30:01Z"
     },
     {
-        "id": 41511,
+        "id": 7,
         "isOptional": null,
         "version": 10,
         "availableFrom": "06/09/2023 00:00:01",
@@ -4052,7 +4052,7 @@ const data = [
         "availableFromIso": "2023-09-05T18:30:01Z"
     },
     {
-        "id": 30144,
+        "id": 8,
         "isOptional": null,
         "version": 16,
         "availableFrom": "01/12/2022 00:00:00",
